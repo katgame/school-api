@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "12EUp7sriRc=",
+  "dgSpecHash": "7s7LXS4pbOM=",
   "success": true,
-  "projectFilePath": "C:\\Code\\mabusha\\school-api\\school-api\\school-api.csproj",
+  "projectFilePath": "C:\\Code\\mabusha\\school-api-docker\\school-api\\school-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mabusha\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Mabusha\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.12\\microsoft.aspnetcore.authentication.jwtbearer.8.0.12.nupkg.sha512",
