@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HDvNvbUhjYELKxmix8gO9mxbudKY03sUrA3sDLivXMQ=",
+  "Source": "school-api",
+  "BasePath": "_content/school-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
